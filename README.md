@@ -118,3 +118,7 @@ I set the Z offset per the instructions, but I don't know if that then adjusts A
 - Is PLA strong enough for GearWall hook?
 - Why bigger nozzles?
 - Tweaking temps? Volumes??
+- Clean hotend? Lots of reports of metal coils stuck in hotend?
+- Spacer to push spring on extruder?
+- Bed temp 70?  not 60 (default or 45?)
+- Hairspray to help with attach?
