@@ -12,7 +12,9 @@ Notes and info about Creality CR-10 V2 3D Printers
 
 ### Other CR-10 Variants
 
-Wow it's confusing to navigate the CR-10 product line. Here's the best I could figure out
+Navigating the CR-10 product line is tricky.
+
+Here's the best I could figure out:
 
 - CR-10 (original - orange) 300x300x400mm
 - CR-10 v2 (reinforced frame, upgraded components)
@@ -22,12 +24,12 @@ Wow it's confusing to navigate the CR-10 product line. Here's the best I could f
 - CR-10 Mini (smaller than CR-10, bigger than Ender 3) 300x220x300mm
 - CR-X (dual extruders)
 
-### Why CR-10v2
+### Why CR-10v2 vs Stock CR-10
 - Dual Z screws
-- Better PSU
+- Better/Safer PSU
 - Quieter Drivers
 - Better Head Cooling
-- Metal Extruder
+- Metal Extruder vs Plastic
 - Easy to add BLTouch
 
 ### Resellers
@@ -36,6 +38,9 @@ Websites for Creality:
  - https://www.creality.com/
  - https://www.creality3dofficial.com/
  - https://creality3d.shop/  
+
+Other resellers:
+- [Comgrow](https://comgrow3d.com/) - Who I purchased from.
 
 
 ## Getting started
