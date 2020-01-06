@@ -128,4 +128,5 @@ I set the Z offset per the instructions, but I don't know if that then adjusts A
 - Bed temp 70?  not 60 (default or 45?)
 - Hairspray to help with attach?
 - Mount filament roll somehwhere else? on top?
+- New Cura settings that are more appropriate for V2?
 
