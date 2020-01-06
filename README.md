@@ -109,6 +109,8 @@ I set the Z offset per the instructions, but I don't know if that then adjusts A
 - [Creality Experts](https://www.crealityexperts.com/gettingstarted)
 - [Thingiverse CR-10 Forum](https://www.thingiverse.com/groups/creality-cr-10)
 
+- [ALL3d Reviews}(https://all3dp.com/) (Decent reviews, but rarely say anything negative about anything...)
+
 
 ### Video Content
 - [Filament Friday](https://www.youtube.com/user/beginnerelectronics/videos)
