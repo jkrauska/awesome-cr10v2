@@ -112,6 +112,7 @@ I set the Z offset per the instructions, but I don't know if that then adjusts A
 
 ### Video Content
 - [Filament Friday](https://www.youtube.com/user/beginnerelectronics/videos)
+- [CNC Kitchen](https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg/videos) - Great science-based 3D printing testing
 
 
 ## Hacks I Want To Checkout
